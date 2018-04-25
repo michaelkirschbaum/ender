@@ -1,0 +1,19 @@
+{
+  "name": "ender-platform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelkirschbaum/ender-platform.git"
+  },
+  "author": "Michael Kirschbaum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelkirschbaum/ender-platform/issues"
+  },
+  "homepage": "https://github.com/michaelkirschbaum/ender-platform#readme"
+}
